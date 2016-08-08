@@ -1,0 +1,20 @@
+body {
+    max-width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 3em;
+
+}
+
+.footer-print {
+    text-align: center;
+}
