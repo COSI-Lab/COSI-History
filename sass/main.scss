@@ -1,0 +1,19 @@
+body {
+    max-width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-header {
+    font-size: 3em;
+
+}
